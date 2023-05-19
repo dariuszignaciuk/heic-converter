@@ -1,0 +1,3 @@
+- `npm install`
+- set srcDirPath and resultDirPath varaibles in index.js
+- run: `node index.js`

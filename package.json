@@ -1,0 +1,10 @@
+{
+  "name": "heic-converter",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "heic-convert": "^1.2.4"
+  }
+}
